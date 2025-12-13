@@ -16,3 +16,5 @@ git config user.email
 nano "nome arquivo que a gente vai criar" -> editor de texto dentro do bash, pode editar e criar um arquivo
 ctrl + o - salva o arquivo + enter
 ctrl + x - para sair
+
+git log -> mostra todos o histórico de commit
