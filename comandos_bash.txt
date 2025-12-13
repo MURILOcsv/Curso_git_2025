@@ -1,6 +1,18 @@
-git
+Primeiros comandos Git
 
 ls -> lista quais itens tem no diretório
 cd -> Muda de diretório
 pwd -> Aonde estou? Mostra o caminho até o diretório que estou
 mkdir -> Criar uma nova pasta
+cd .. -> sobe uma pasta anterior
+cd . -> é a própria pasta
+cat -> mostra o que tem dentro do arquivo
+git init -> torna a (pasta especial). A pasta vira um repositório git
+git status -> mostra como está meu diretório
+git add -> me ajudar a colocar o arquivo que vai para o commit
+git commit -m "descrição do commit" -> criar um commit e colocar descrição
+git config user.name -> verificar meu nome da minha conta git
+git config user.email
+nano "nome arquivo que a gente vai criar" -> editor de texto dentro do bash, pode editar e criar um arquivo
+ctrl + o - salva o arquivo + enter
+ctrl + x - para sair
