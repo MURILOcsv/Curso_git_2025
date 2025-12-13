@@ -1,0 +1,6 @@
+git
+
+ls -> lista quais itens tem no diretório
+cd -> Muda de diretório
+pwd -> Aonde estou? Mostra o caminho até o diretório que estou
+mkdir -> Criar uma nova pasta
