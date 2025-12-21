@@ -32,3 +32,4 @@ git log -> mostra todos o histórico de commit
 
 git diff "nome arquivo" -> mostra o que foi alterado no arquivo
 git diff . -> mostra todas as alterações dentro do diretório
+git reset "nome arquivo" -> tira o arquivo do commit(deixa de ficar verde para vermelho)
