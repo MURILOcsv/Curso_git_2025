@@ -27,4 +27,4 @@
 ## 💻 Clonar
 ```bash
 git clone [https://github.com/SEU-USUARIO/NOME-DO-REPO.git](https://github.com/SEU-USUARIO/NOME-DO-REPO.git)
-cd NOME-DO-REPO
+cd Murilo
